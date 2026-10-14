@@ -1,7 +1,7 @@
 # Web App Streamlit: Quản lý điểm sinh viên
 import streamlit as st
 import matplotlib.pyplot as plt
-
+from du_lieu import tao_bang_diem
 st.set_page_config(page_title='Quản lý điểm sinh viên', page_icon='🎓', layout='wide')
 st.title('QUẢN LÝ ĐIỂM SINH VIÊN')
 st.caption('Dữ liệu minh họa của 10 sinh viên | Thang điểm 10')
