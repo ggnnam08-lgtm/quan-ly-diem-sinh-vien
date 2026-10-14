@@ -48,4 +48,4 @@ st.pyplot(fig)
 plt.close(fig)
 
 st.divider()
-st.markdown('<p style="font-size:12px;color:gray">Người thực hiện: [ĐIỀN HỌ TÊN] | MSSV: [ĐIỀN MSSV]</p>', unsafe_allow_html=True)
+st.markdown('<p style="font-size:12px;color:gray">Người thực hiện: Nguyễn Hải Nam | MSSV: 040208022754</p>', unsafe_allow_html=True)
